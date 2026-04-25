@@ -11,3 +11,4 @@ torch
 pytest
 httpx
 python-dotenv
+pytest-cov
